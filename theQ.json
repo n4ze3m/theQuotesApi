@@ -1,0 +1,498 @@
+{
+	"apiVersion":0.1,
+	"message":"Sorry for duplication",
+	"created_by":"duotres",
+	"quotes_category":[{
+		"author_id":1,
+		"author_name":"Thomas Edison",
+		"author_img":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/469px-Thomas_Edison2.jpg",
+		"author_quotes_category":[
+			{
+				"the_quotes": "Genius is one percent inspiration and ninety-nine percent perspiration."
+			},
+			{
+				"the_quotes": "If we did the things we are capable of, we would astound ourselves."
+			},
+			{
+				"the_quotes":"Opportunity is missed by most because it is dressed in overalls and looks like work."
+			},
+			{
+				"the_quotes":"Many of life's failures are people who did not realize how close they were to success when they gave up."
+			},
+			{
+				"the_quotes": "The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary."
+			},
+			{
+				"the_quotes":"If we did the things we are capable of, we would astound ourselves."
+			}
+		]
+	},
+	{
+		"author_id":2,
+		"author_name":"Yogi Berra",
+		"author_img":"https://upload.wikimedia.org/wikipedia/commons/5/56/Yogi_Berra.jpg",
+		"author_quotes_category":[
+			{
+				"the_quotes": "You can observe a lot just by watching."
+			},
+			{
+				"the_quotes": "Life is a learning experience, only if you learn."
+			},
+			{
+				"the_quotes": "You can observe a lot just by watching"
+			},
+			{
+				"the_quotes": "You got to be careful if you don't know where you're going, because you might not get there."
+			},
+			{
+				"the_quotes": "You got to be careful if you don't know where you're going, because you might not get there."
+			}
+		]
+	},
+	{
+		"author_id":3,
+		"author_name":"Abraham Lincoln",
+		"author_img":"https://upload.wikimedia.org/wikipedia/commons/c/c8/Abraham_Lincoln.jpg",
+		"author_quotes_category":[
+			{
+				"the_quotes": "A house divided against itself cannot stand."
+			},
+			{
+				"the_quotes": "Important principles may, and must, be inflexible."
+			},
+			{
+				"the_quotes": "I destroy my enemies when I make them my friends."
+			},
+			{
+				"the_quotes": "You have to do your own growing no matter how tall your grandfather was."
+			},
+			{
+				"the_quotes": "Most people are about as happy as they make up their minds to be"
+			},
+			{
+				"the_quotes": "Most folks are about as happy as they make up their minds to be."
+			},
+			{
+				"the_quotes": "Give me six hours to chop down a tree and I will spend the first four sharpening the axe."
+			},
+			{
+				"the_quotes": "When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run."
+			},
+			{
+				"the_quotes": "When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run."
+			},
+			{
+				"the_quotes": "You have to do your own growing no matter how tall your grandfather was."
+			},
+			{
+				"the_quotes": "The best thing about the future is that it only comes one day at a time."
+			}
+		]
+	},
+	{
+		"author_id":4,
+		"author_name":"Johann Wolfgang von Goethe",
+		"author_img":"https://upload.wikimedia.org/wikipedia/commons/8/8b/Johann_Wolfgang_von_Goethe.jpg",
+		"author_quotes_category":[
+			{
+				"the_quotes": "Difficulties increase the nearer we get to the goal."
+			},{
+				"the_quotes": "Great talent finds happiness in execution."
+			},
+			{
+				"the_quotes": "Character develops itself in the stream of life."
+			},
+			{
+				"the_quotes": "A really great talent finds its happiness in execution."
+			},
+			{
+				"the_quotes": "Mountains cannot be surmounted except by winding paths."
+			},
+			{
+				"the_quotes": "Knowing is not enough; we must apply!"
+			},
+			{
+				"the_quotes": "Character develops itself in the stream of life"
+			},
+			{
+				"the_quotes": "Mountains cannot be surmounted except by winding paths."
+			},
+			{
+				"the_quotes":"In the end we retain from our studies only that which we practically apply."
+			},
+			{
+				"the_quotes":"The person born with a talent they are meant to use will find their greatest happiness in using it."
+			},
+			{
+				"the_quotes":"People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not."
+			},
+			{
+				"the_quotes":"If you must tell me your opinions, tell me what you believe in. I have plenty of douts of my own."
+			},
+			{
+				"the_quotes":"Treat people as if they were what they ought to be and you help them to become what they are capable of being."
+			},
+			{
+				"the_quotes":"If you must tell me your opinions, tell me what you believe in. I have plenty of douts of my own."
+			},
+			{
+				"the_quotes":"Correction does much, but encouragement does more"
+			}
+		]
+	},
+	{
+		"author_id":5,
+		"author_name":"Byron Pulsifer",
+		"author_img":"https://4.bp.blogspot.com/-zsbDeAUd8aY/US7F0ta5d9I/AAAAAAAAEKY/UL2AAhHj6J8/s1600/facebook-default-no-profile-pic.jpg",
+		"author_quotes_category":[
+			{
+				"the_quotes": "Fate is in your hands and no one elses"
+			},
+			{
+				"the_quotes": "What you give is what you get."
+			},
+			{
+				"the_quotes": "The best teacher is experience learned from failures."
+			},
+			{
+				"the_quotes": "What you fear is that which requires action to overcome"
+			},
+			{
+				"the_quotes": "If you cannot be silent be brilliant and thoughtful."
+			},
+			{
+				"the_quotes": "Someone is special only if you tell them."
+			},
+			{
+				"the_quotes": "Give thanks for the rain of life that propels us to reach new horizons."
+			},
+			{
+				"the_quotes":"Transformation doesn't take place with a vacuum; instead, it occurs when we are indirectly and directly connected to all those around us.""
+			},
+			{
+				"the_quotes":"Your destiny isn't just fate; it is how you use your own developed abilities to get what you want."
+			},
+			{
+				"the_quotes":"Everyone can taste success when the going is easy, but few know how to taste victory when times get tough"
+			},
+			{
+				"the_quotes":"Patience is a virtue but you will never ever accomplish anything if you don't exercise action over patience."
+			},
+			{
+				"the_quotes":"Many people think of prosperity that concerns money only to forget that true prosperity is of the mind."
+			},
+			{
+				"the_quotes":"Today, give a stranger a smile without waiting for it may be the joy they need to have a great day."
+			},
+			{
+				"the_quotes":"Sadness may be part of life but there is no need to let it dominate your entire life."
+			},
+			{
+				"the_quotes":"To give hope to someone occurs when you teach them how to use the tools to do it for themselves."
+			},
+			{
+				"the_quotes":"You can be what you want to be. You have the power within and we will help you always."
+			},
+			{
+				"the_quotes":"Courage is not about taking risks unknowingly but putting your own being in front of challenges that others may not be able to."
+			},
+			{
+				"the_quotes":"To give hope to someone occurs when you teach them how to use the tools to do it for themselves."
+			},
+			{
+				"the_quotes":"Responsibility is not inherited, it is a choice that everyone needs to make at some point in their life."
+			},
+			{
+				"the_quotes":"You can't create in a vacuum. Life gives you the material and dreams can propel new beginnings."
+			},
+			{
+				"the_quotes":"You can't trust without risk but neither can you live in a cocoon"
+			},
+			{
+				"the_quotes":"Look forward to spring as a time when you can start to see what nature has to offer once again"
+			},
+			{
+				"the_quotes":"Everyone can taste success when the going is easy, but few know how to taste victory when times get tough."
+			},
+			{
+				"the_quotes":"Fear of failure is one attitude that will keep you at the same point in your life"
+			},
+			{
+				"the_quotes":"Courage is not about taking risks unknowingly but putting your own being in front of challenges that others may not be able to."
+			},
+			{
+				"the_quotes":"To give hope to someone occurs when you teach them how to use the tools to do it for themselves."
+			},
+			{
+				"the_quotes":"To be thoughtful and kind only takes a few seconds compared to the timeless hurt caused by one rude gesture."
+			},
+			{
+				"the_quotes":"Today, give a stranger a smile without waiting for it may be the joy they need to have a great day"
+			},
+			{
+				"the_quotes":"If you have no respect for your own values how can you be worthy of respect from others."
+			}
+		]
+	},
+	{
+		"author_id":6,
+		"author_name":"Lao Tzu",
+		"author_img":"https://excellencereporterdotcom.files.wordpress.com/2018/12/Frases-de-Lao-Tse.jpg?w=1200",
+		"author_quotes_category":[
+			{
+				"the_quotes": "Be the chief but never the lord"
+			},
+			{
+				"the_quotes": "To lead people walk behind them"
+			},
+			{
+				"the_quotes": "Doing nothing is better than being busy doing nothing."
+			},
+			{
+				"the_quotes": "Anticipate the difficult by managing the easy."
+			},
+			{
+				"the_quotes": "He who talks more is sooner exhausted."
+			},
+			{
+				"the_quotes": "He who is contented is rich."
+			},
+			{
+				"the_quotes": "Doing nothing is better than being busy doing nothing."
+			},
+			{
+				"the_quotes":"The journey of a thousand miles begins with one step."
+			},
+			{
+				"the_quotes":"He who talks more is sooner exhausted"
+			},
+			{
+				"the_quotes":"An ant on the move does more than a dozing ox"
+			},
+			{
+				"the_quotes":"If you correct your mind, the rest of your life will fall into place."
+			},
+			{
+				"the_quotes":"If you would take, you must first give, this is the beginning of intelligence"
+			},
+			{
+				"the_quotes":"The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own."
+			},
+			{
+				"the_quotes":"Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven."
+			},
+			{
+				"the_quotes":"At the center of your being you have the answer; you know who you are and you know what you want."
+			},
+			{
+				"the_quotes":"When you are content to be simply yourself and don't compare or compete, everybody will respect you."
+			},
+			{
+				"the_quotes":"At the center of your being you have the answer; you know who you are and you know what you want."
+			},
+			{
+				"the_quotes":"All difficult things have their origin in that which is easy, and great things in that which is small."
+			},
+			{
+				"the_quotes":"I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures."
+			},
+			{
+				"the_quotes":"When you realize there is nothing lacking, the whole world belongs to you."
+			},
+			{
+				"the_quotes":"The journey of a thousand miles begins with one step."
+			},
+			{
+				"the_quotes":"At the center of your being you have the answer; you know who you are and you know what you want."
+			},
+			{
+				"the_quotes":"All difficult things have their origin in that which is easy, and great things in that which is small."
+			},
+		]
+	},
+	{
+		"author_id":7,
+		"author_name":"Carl Sandburg",
+		"author_img":"https://upload.wikimedia.org/wikipedia/commons/0/00/Carl_Sandburg.jpg",
+		"author_quotes_category":[
+			{
+				"the_quotes": "Nothing happens unless first we dream."
+			}
+		]
+	},
+	{
+		"author_id":8,
+		"author_name":"Aristotle",
+		"author_img":"https://upload.wikimedia.org/wikipedia/commons/6/65/Aristotle.jpg",
+		"author_quotes_category":[
+			{
+				"the_quotes": "Well begun is half done."
+			},
+			{
+				"the_quotes": "Change in all things is sweet."
+			},
+			{
+				"the_quotes": "Well begun is half done."
+			},
+			{
+				"the_quotes": "It is the mark of an educated mind to be able to entertain a thought without accepting it."
+			},
+			{
+				"the_quotes": "Happiness depends upon ourselves."
+			},
+			{
+				"the_quotes": "In all things of nature there is something of the marvellous."
+			},
+			{
+				"the_quotes": "It is the mark of an educated mind to be able to entertain a thought without accepting it."
+			},
+			{
+				"the_quotes": "We are what we repeatedly do. Excellence, then, is not an act, but a habit."
+			}
+		]
+	},
+	{
+		"author_id":9,
+		"author_name":"Margaret Sangster",
+		"author_img":"https://upload.wikimedia.org/wikipedia/commons/d/db/Margaret_Elizabeth_Sangster_001.jpg",
+		"author_quotes_category":[
+			{
+				"the_quotes": "Self-complacency is fatal to progress."
+			}
+		]
+	},
+	{
+		"author_id":10,
+		"author_name":"Buddha",
+		"author_img":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Tian_Tan_Buddha_August_2013.JPG/1200px-Tian_Tan_Buddha_August_2013.JPG",
+		"author_quotes_category":[
+			{
+				"the_quotes": "Peace comes from within. Do not seek it without."
+			},
+			{
+				"the_quotes": "Work out your own salvation. Do not depend on others."
+			},
+			{
+				"the_quotes":"He is able who thinks he is able."
+			},
+			{
+				"the_quotes":"Those who are free of resentful thoughts surely find peace."
+			},
+			{
+				"the_quotes":"What we think, we become."
+			},
+			{
+				"the_quotes":"He is able who thinks he is able."
+			},
+			{
+				"the_quotes":"It is better to travel well than to arrive."
+			},
+			{
+				"the_quotes":"Work out your own salvation. Do not depend on others."
+			},
+			{
+				"the_quotes":"The mind is everything. What you think you become."
+			},
+			{
+				"the_quotes":"In separateness lies the world's great misery, in compassion lies the world's true strength."
+			},
+			{
+				"the_quotes":"Happiness comes when your work and words are of benefit to yourself and others."
+			},
+			{
+				"the_quotes":"Just as a candle cannot burn without fire, men cannot live without a spiritual life."
+			},
+			{
+				"the_quotes":"If you light a lamp for somebody, it will also brighten your path."
+			},
+			{
+				"the_quotes":"Your worst enemy cannot harm you as much as your own unguarded thoughts"
+			},
+			{
+				"the_quotes":"In separateness lies the world's great misery, in compassion lies the world's true strength."
+			},
+			{
+				"the_quotes":"The way is not in the sky. The way is in the heart."
+			},
+			{
+				"the_quotes":"Three things cannot be long hidden: the sun, the moon, and the truth."
+			},
+			{
+				"the_quotes":"You, yourself, as much as anybody in the entire universe, deserve your love and affection."
+			},
+			{
+				"the_quotes":"You will not be punished for your anger, you will be punished by your anger."
+			},
+			{
+				"the_quotes":"Just as a candle cannot burn without fire, men cannot live without a spiritual life."
+			},
+			{
+				"the_quotes":"The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character."
+			},
+			{
+				"the_quotes":"In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves."
+			},
+			{
+				"the_quotes":"Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind."
+			},
+			{
+				"the_quotes":"To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear."
+			},
+			{
+				"the_quotes":"There are only two mistakes one can make along the road to truth; not going all the way, and not starting."
+			},
+			{
+				"the_quotes":"There are only two mistakes one can make along the road to truth; not going all the way, and not starting."
+			},
+			{
+				"the_quotes":"To live a pure unselfish life, one must count nothing as ones own in the midst of abundance"
+			},
+			{
+				"the_quotes":"To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear."
+			},
+			{
+				"the_quotes":"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."
+			},
+			{
+				"the_quotes":"We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world."
+			},
+			{
+				"the_quotes":"Your work is to discover your world and then with all your heart give yourself to it."
+			},
+			{
+				"the_quotes":"All that we are is the result of what we have thought. The mind is everything. What we think we become."
+			},
+			{
+				"the_quotes":"Those who are free of resentful thoughts surely find peace."
+			},
+			{
+				"the_quotes":"You will not be punished for your anger, you will be punished by your anger."
+			},
+			{
+				"the_quotes":"If you light a lamp for somebody, it will also brighten your path"
+			},
+			{
+				"the_quotes":"The foot feels the foot when it feels the ground."
+			},
+			{
+				"the_quotes":"Your work is to discover your world and then with all your heart give yourself to it."
+			},
+			{
+				"the_quotes":"To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear."
+			},
+			{
+				"the_quotes":"You, yourself, as much as anybody in the entire universe, deserve your love and affection."
+			},
+			{
+				"the_quotes":"Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind"
+			},
+			{
+				"the_quotes":"In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves."
+			},
+			{
+				"the_quotes":"No one saves us but ourselves. No one can and no one may. We ourselves must walk the path"
+			},
+		]
+	},
+]
+}
